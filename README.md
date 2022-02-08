@@ -20,21 +20,11 @@
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/carlama916" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/url?color=blue&logo=OUTLOOK&logoColor=white&style=for-the-badge&url=%23" target="_blank"></a> 
   <a href = "mailto:carlamab2808@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-
-
-
-
-
-- 👋 Hi, I’m @wwomandev
-- 👀 I’m interested in tecnology, developing, music, documentaries and superheros... lol
-- 💞️ I’m looking to collaborate on enterprises, companies and firms.
-- 📫 How to reach me 
-carlamab2808@outlook.com or my personal number (61) 99254-1587 !!!
 
 <!---
 wwomandev/wwomandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
